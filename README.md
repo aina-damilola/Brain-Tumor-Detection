@@ -4,3 +4,7 @@ Currently, medical professionals use magnetic resonance imaging (MRI) scans to v
  - Glioma
  - Meningioma
  - Pituitary
+
+ Datasets used
+ - https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+ - https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
